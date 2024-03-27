@@ -83,3 +83,36 @@ CREATE TABLE game_date_association (
     FOREIGN KEY (date_primary_key) REFERENCES date_dimension(date_primary_key),
     PRIMARY KEY (game_sales_key, date_primary_key)
 );
+
+COPY participant_dimension (participant_primary_key, participant_name, race, age, age_group, gender, incident_description)
+FROM '/Users/vanishabagga/Documents/dsproject/participant.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY date_dimension (date_primary_key, month, day, weekday, year, season, holiday_flag)
+FROM '/Users/vanishabagga/Documents/dsproject/date.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY gun_dimension (gun_primary_key, gun_type, gun_status)
+FROM '/Users/vanishabagga/Documents/dsproject/type_of_gun.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY location_dimension (location_primary_key, state, city, location, latitude, longitute)
+FROM '/Users/vanishabagga/Documents/dsproject/location.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY video_game_dimension (video_game_primary_key, title, genre, platform, publisher, year)
+FROM '/Users/vanishabagga/Documents/dsproject/gamedata.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY incident_fact_table (case_primary_key, participant_primary_key, date_primary_key, location_primary_key, video_game_primary_key, num_injured, num_deaths, gun_primary_key)
+FROM '/Users/vanishabagga/Documents/dsproject/incidentfacttable.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY game_sales_fact_table (game_primary_key, video_game_primary_key, na_sales, eu_sales, jp_sales, other_sales, global_sales)
+FROM '/Users/vanishabagga/Documents/dsproject/gamesalesfacttable.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
+COPY game_date_association (game_sales_key, date_primary_key)
+FROM '/Users/vanishabagga/Documents/dsproject/game_date_association_cleaned.csv'
+WITH (FORMAT csv, HEADER true, DELIMITER ',');
+
