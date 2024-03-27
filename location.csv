@@ -1,0 +1,145 @@
+location_key,state,city_or_county,location_of_shooting,latitude,longitude
+1,tennessee,nashville,school,36.09305556,-86.82555556
+2,michigan,east lansing,school,42.73262,-84.47867
+3,california,half moon bay,workplace,37.46364,-122.42924
+4,california,monterey park,other,34.06194444,-118.1236111
+5,virginia,chesapeake,workplace,36.77277778,-76.24888889
+6,colorado,colorado springs,other,38.8812,-104.7584
+7,virginia,charlottesville,school,38.0491,-78.50587
+8,north carolina,hedingham,other,35.63625,-78.65108
+9,indiana,greenwood,workplace,39.6329,-86.1205
+10,illinois,highland park,other,42.184681,-87.802109
+11,alabama,birmingham,religious,33.46888889,-86.73069444
+12,maryland,smithsburg,workplace,39.653881,-77.57476
+13,oklahoma,tulsa,workplace,36.07001,-95.91986
+14,texas,uvalde,school,29.19944444,99.78833333
+15,new york,buffalo,workplace,42.90972222,-78.85277778
+16,michigan,oxford,school,42.84410784,-36.09305556
+17,california,san jose,workplace,37.316097,-121.888533
+18,indiana,indianapolis,workplace,39.68663,-86.32313
+19,california,orange,workplace,33.83542,-117.85379
+20,colorado,boulder,workplace,39.986961,-105.251168
+21,georgia,atlanta,workplace,34.111653,-84.580376
+22,missouri,springfield,workplace,37.210432,-93.23686
+23,wisconsin,milwaukee,workplace,43.044511,-87.962537
+24,new jersey,jersey city,other,40.707363,-74.083609
+25,florida,pensacola,military,30.364707,-87.288567
+26,texas,odessa,other,31.925974,-102.2796
+27,ohio,dayton,other,39.757312,-84.184947
+28,texas,el paso,workplace,31.771068,-106.375655
+29,california,gilroy,other,36.997191,-121.584819
+30,virginia,virginia beach,workplace,36.75442,-76.060378
+31,illinois,aurora,workplace,41.753725,-88.331057
+32,pennsylvania,state college,other,40.785142,-77.839411
+33,florida,sebring,workplace,27.471043,-81.45847
+34,illinois,chicago,workplace,41.847667,-87.622009
+35,california,thousand oaks,other,34.176946,-118.874793
+36,pennsylvania,pittsburgh,religious,40.443898,-79.921398
+37,maryland,perryman,workplace,39.455658,-76.208485
+38,california,bakersfield,workplace,35.349388,-118.916335
+39,ohio,cincinnati,workplace,39.101981,-84.511782
+40,maryland,annapolis,workplace,38.994548,-76.543657
+41,texas,santa fe,school,29.392825,-95.141972
+42,tennessee,nashville,other,36.052521,-86.616944
+43,california,yountville,workplace,38.392496,-122.366528
+44,florida,parkland,school,26.30483,-80.269511
+45,pennsylvania,melcroft,other,40.052151,-79.389166
+46,california,rancho tehama,other,40.018759,-122.393089
+47,texas,sutherland springs,religious,29.273282,-98.056488
+48,colorado,thornton,other,39.876374,-104.986132
+49,maryland,edgewood,workplace,39.452189,-76.309988
+50,nevada,las vegas,other,36.095739,-115.171544
+51,california,san francisco,workplace,37.765947,-122.406087
+52,pennsylvania,tunkhannock,workplace,41.529546,-75.94722
+53,florida,orlando,workplace,28.580295,-81.294086
+54,ohio,kirkersville,workplace,39.959034,-82.596508
+55,california,fresno,other,36.746378,-119.800319
+56,florida,fort lauderdale,airport,26.072751,-80.143382
+57,washington,burlington,other,48.461367,-122.337918
+58,lousiana,baton rouge,other,30.433601,-91.081403
+59,texas,dallas,other,32.7801052,-96.8000082
+60,florida,orlando,other,28.519718,-81.376777
+61,kansas,hesston,workplace,38.135992,-97.425145
+62,michigan,kalamazoo county,other,42.236689,-85.674795
+63,california,san bernardino,"
+workplace",34.075961,-117.27789
+64,colorado,colorado springs,workplace,38.881031,-104.849057
+65,colorado,colorado springs,other,38.83755,-104.814251
+66,oregon,roseburg,school,43.289538,-123.333193
+67,tennessee,chattanooga,military,35.047157,-85.311819
+68,south carolina,charleston,religious,32.788387,-79.933143
+69,wisconsin,menasha,other,44.204124,-88.467541
+70,washington,marysville,school,48.050824,-122.176918
+71,california,santa barbara,school,34.436283,-119.8714406
+72,texas,fort hood,military,31.141716,-97.777559
+73,california,alturas,other,41.487104,-120.542237
+74,d.c.,washington,military,38.874981,-76.99453
+75,florida,hialeah,"other
+",25.864338,-80.311775
+76,california,santa monica,"other
+",34.008617,-118.494754
+77,washington,federal way,"other
+",47.3129607,-122.3393665
+78,new york,herkimer county,other,43.045601,-74.984891
+79,connecticut,newtown,school,41.4123225,-73.31142358
+80,minnesota,minneapolis,workplace,44.977425,-93.310408
+81,wisconsin,oak creek,religious,42.8858503,-87.8631362
+82,colorado,aurora,other,39.706038,-104.820594
+83,washington,seattle,other,47.6038321,-122.3300624
+84,california,oakland,school,37.8043808,-122.2708166
+85,georgia,norcross,other,33.9412127,-84.2135309
+86,california,seal beach,other,33.741176,-118.1046356
+87,nevada,carson city,other,39.1637984,-119.7674034
+88,arizona,tucson,other,32.335941,-110.975132
+89,connecticut,manchester,workplace,41.798764,-72.570068
+90,washington,parkland,other,47.15277,-122.467308
+91,texas,fort hood,military,31.135557,-97.783664
+92,new york,binghamton,other,42.099802,-75.917723
+93,north carolina,carthage,other,35.333434,-79.414592
+94,kentucky,henderson,workplace,37.76721,-87.5573742
+95,illinois,dekalb,school,41.9294736,-88.7503647
+96,missouri,kirkwood,other,38.580093,-90.40691
+97,nebraska,omaha,other,41.265719,-96.067495
+98,wisconsin,crandon,other,45.5719072,-88.9028922
+99,virginia,blacksburg,school,37.2295733,-80.4139393
+100,utah,salt lake city,other,40.7606467,-111.89109
+101,pennsylvania,lancaster county,school,39.9589,-76.0806
+102,washington,seattle,other,47.6229,-122.3165
+103,california,goleta,workplace,34.425571,-119.866069
+104,minnesota,red lake,school,47.876346,-95.0169401
+105,wisconsin,brookfield,religious,43.0605671,-88.1064787
+106,ohio,columbus,other,39.9622601,-83.0007065
+107,mississippi,meridian,workplace,32.410842,-88.634539
+108,illinois,melrose park,workplace,41.908163,-87.879908
+109,massachusetts,wakefield,workplace,42.500429,-71.075913
+110,florida,tampa,workplace,27.966479,-82.570586
+111,hawaii,honolulu,workplace,21.320063,-157.876462
+112,texas,fort worth,religious,32.664511,-97.384246
+113,georgia,atlanta,workplace,33.850116,-84.377839
+114,colorado,littleton,school,39.604034,-105.074103
+115,oregon,springfield,school,44.0462362,-123.0220289
+116,arkansas,jonesboro,school,35.8209895,-90.6682606
+117,connecticut,newington,workplace,41.6856325,-72.72983827
+118,california,orange,workplace,33.7877944,-117.8531119
+119,south carolina,aiken,workplace,33.5598586,-81.721952
+120,florida,fort lauderdale,workplace,26.119269,-80.104119
+121,texas,corpus christi,workplace,27.828025,-97.548198
+122,washington,fairchild air force base,military,47.61864486,-117.6483587
+123,colorado,aurora,workplace,39.675599,-104.844845
+124,new york,garden city,other,40.7267682,-73.6342955
+125,north carolina,fayetteville,other,35.0529931,-78.8787058
+126,california,san francisco,other,37.792968,-122.397973
+127,new york,watkins glen,other,42.3810555,-76.8705777
+128,california,olivehurst,school,39.07868761,-121.5475762
+129,michigan,royal oak,workplace,42.4894801,-83.1446485
+130,iowa,iowa city,school,41.6606893,-91.5302214
+131,texas,killeen,other,31.1171194,-97.7277959
+132,florida,jacksonville,other,30.3321838,-81.655651
+133,kentucky,louisville,workplace,38.2542376,-85.759407
+134,california,stockton,school,37.9577016,-121.2907796
+135,california,sunnyvale,workplace,37.3688301,-122.0363496
+136,florida,palm bay,other,28.0331886,-80.6429695
+137,oklahoma,edmond,workplace,35.6672015,-97.42937037
+138,california,san ysidro,other,32.5520013,-117.0430813
+139,texas,dallas,other,32.925166,-96.838676
+140,florida,miami,other,25.796491,-80.226683

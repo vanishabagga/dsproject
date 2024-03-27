@@ -1,0 +1,114 @@
+gun_key,gun_type,legal_status
+1,.22-caliber rifle; two 12-gauge shotguns,yes
+2,.22-caliber ruger sawed-off semiautomatic rifle,yes
+3,.22-caliber sawed-off rifle; 12-gauge pump-action shotgun,yes
+4,".22-caliber, two .45-caliber colt model 1911-a1 semiautomatic handguns",yes
+5,".223-caliber semi-automatic assault rifle, about 40 high capacity magazines, ""black powder"" handgun (likely antique)",no
+6,.25-caliber semiautomatic handgun,no
+7,.30-caliber universal m1 carbine rifle; .38-caliber revolver,yes
+8,.32-caliber retolaza semiautomatic handgun; ak-47 variant semiautomatic rifle; 12-gauge winchester 1300 pump-action shotgun,yes
+9,.357 revolver,no
+10,.38-caliber taurus revolver,yes
+11,".380 acp browning, 9mm smith & wesson semiautomatic handguns; ruger m-77 .22-250 bolt-action rifle with scope; mossberg 12-gauge pump-action, 12-gauge benelli semiautomatic shotguns; .357 magnum smith & wesson, .22 sentinel wmr revolvers",yes
+12,".380-caliber, 9mm ruger p85 semiautomatic handguns",yes
+13,.380-caliber; make unclear,no
+14,".40 caliber semi-automatic handgun, pistol grip shotgun",yes
+15,".40-caliber glock 23, .22-caliber ruger semiautomatic handguns; 12-gauge remington 870 shotgun",no
+16,".40-caliber ruger, one other semiautomatic handgun; bushmaster xm15 e2s semiautomatic rifle; 12-gauge winchester defender pump-action shotgun with extended tube and pistol grip",yes
+17,.40-caliber smith & wesson semiautomatic handgun; .44 magnum smith & wesson model 29 revolver,no
+18,".45-caliber colt 1911-a1, 9mm glock 17, .25-caliber raven arms mp-25 semiautomatic handguns; .22-caliber harrington & richardson revolver",yes
+19,".45-caliber glock (model 41, with 13-round capacity magazine)",yes
+20,.45-caliber handguns; noise suppressor (silencer); several high-capacity magazines,yes
+21,".45-caliber heckler & koch, 9mm springfield semiautomatic handguns; .44 magnum smith & wesson revolver",yes
+22,.45-caliber hi-point semiautomatic handgun,yes
+23,".45-caliber ruger p90 semiautomatic handgun; .22-caliber rifle with scope, .223-caliber ruger mini-14 rifle; 12-gauge winchester 1300 shotgun; .22 magnum derringer",yes
+24,.45-caliber semiautomatic handgun,yes
+25,.45-caliber smith & wesson handgun,no
+26,"10mm glock, 9mm sig sauer p226 semiautomatic handguns; .223 bushmaster xm15-e2s semiautomatic rifle; izhmash saiga-12 12-gauge semiautomatic shotgun",no
+27,12-gauge pump-action shotgun,yes
+28,7.62mm ak-47 chinese variant semiautomatic rifle,yes
+29,"9 mm glock pistol, .40 caliber smith & wesson, .40 caliber taurus pistol, .556 caliber del-ton; (ammo details unclear)",yes
+30,9 mm handgun,yes
+31,9 mm handgun (ammo used unclear),yes
+32,9mm beretta 92fs semiautomatic handgun,yes
+33,9mm beretta semiautomatic handgun,yes
+34,"9mm beretta, .45-caliber springfield semiautomatic handguns",yes
+35,9mm browning p35 hi-power semiautomatic handgun; 9mm israeli military industries uzi model a carbine semiautomatic rifle; 12-gauge winchester 1200 pump-action shotgun,yes
+36,9mm glock 17 semiautomatic handgun,yes
+37,9mm glock 17 semiautomatic handgun; .38-caliber smith & wesson revolver,no
+38,"9mm glock 17, 9mm ruger p89 semiautomatic handguns",yes
+39,9mm glock 19 semiautomatic handgun,yes
+40,"9mm glock 19, .22-caliber walther p22 semiautomatic handguns",yes
+41,"9mm glock 19, hi-point cf380, 9mm kurz sig sauer p232 semiautomatic handguns; 12-gauge remington sportsman 48 sawed-off shotgun",yes
+42,9mm glock semiautomatic handgun,yes
+43,9mm glock semiautomatic handgun; .32-caliber revolver,yes
+44,"9mm glock, .22-caliber ruger semiautomatic handguns, .22-caliber ruger rifle",no
+45,9mm handgun,no
+46,9mm handgun,yes
+47,"9mm intratec dc-9 semiautomatic handgun; 9mm hi-point 995 carbine rifle; 12-gauge sawed-off savage stevens 311d, 12-gauge sawed-off savage springfield 67h pump-action shotguns",no
+48,9mm llama semiautomatic handgun,yes
+49,9mm lorcin semiautomatic handgun; .38-caliber charter arms revolver,yes
+50,9mm ruger p89 semiautomatic handgun,yes
+51,9mm ruger semiautomatic handgun; .32-caliber revolver,yes
+52,9mm semi-automatic handgun,no
+53,9mm semiautomatic handgun,no
+54,9mm semiautomatic handgun,yes
+55,9mm smith & wesson 459 semiautomatic handgun,no
+56,9mm smith & wesson 915 semiautomatic handgun,yes
+57,9mm springfield armory xdm semiautomatic handgun,yes
+58,9mm taurus semiautomatic handgun; ak-47 chinese variant semiautomatic rifle,yes
+59,"ak-47 norinco arms variant, ak-47 romarm cugir variant rifles; .38-caliber colt revolver",yes
+60,"ak-47, ar-15, and 30-round magazines; 9mm handgun",no
+61,"ak-47-style rifle, per authorities",yes
+62,ar-15,yes
+63,"ar-15 rifle, a 9 mm pistol, and a .357 revolver ",yes
+64,ar-15 style rifle,yes
+65,"ar-15 style rifle, possibly modified for rapid fire",yes
+66,ar-15 swat semiautomatic rifle,yes
+67,"ar-15-style and ak-47-style rifles and ""a large cache of ammunition""; four daniel defense ddm4 rifles, three fn-15s and other rifles made by sig sauer.",yes
+68,"ar-15-style rifle, with a 100-round capacity ammunition drum",yes
+69,"ar-15-style rifle; mossberg 12-gauge shotgun; 9mm ruger pistol, 9mm glock 17",no
+70,ar-15; glock .357 (3),yes
+71,beretta .40-caliber handgun,no
+72,bushmaster xm-15 semiautomatic rifle,yes
+73,"details unclear, but after the shooting, police found eight guns in total in valencia del toro's home, including handguns, shotguns, and rifles, plus and more than 1,000 rounds of ammunition. he took two weapons and ammunition to the bridge.",yes
+74,"fie 380, .380-caliber star semiautomatic handguns; .44 magnum ruger, .30-06 remington 742, .30-caliber universal m-1 carbine replica rifles; .38-caliber charter arms, .357-caliber ruger security six, .38-caliber smith & wesson revolvers; .22-caliber double deuce buddie two-shot, .38-caliber davis industries two-shot derringers",no
+75,fn five-seven semiautomatic handgun,yes
+76,glock 17,yes
+77,"glock 21, .45 caliber; high-capacity magazine",yes
+78,"glock 45 9mm; ruger ar-556 rifle (in his dorm room, with other weapons, gear, and ammo)",yes
+79,glock 9 mm,yes
+80,"iwi tavor sar 5.56 caliber rifle, springfield xd 9, 9mm",no
+81,"izhmash-saiga 5.45mm (ak-style) semiautomatic rifle with large capacity magazines; glock 9mm handgun, .25-caliber semiautomatic handgun",yes
+82,mac-10-style “assault pistol”; 30-round magazine. an additional box of ammunition.,no
+83,mak-90 semiautomatic rifle,yes
+84,mossberg 500 persuader pump-action shotgun with pistol grip,yes
+85,mossberg maverick 88 field shotgun; .38-caliber smith & wesson m36 revolver,no
+86,nan,no
+87,remington 870 express 12-gauge shotgun; beretta handgun,yes
+88,ruger .22-caliber,no
+89,ruger ar-556; kelley also possessed semiautomatic handguns,no
+90,ruger ar-556; weapon was purchased six days before the attack,yes
+91,sig sauer 9mm pistol,no
+92,sig sauer m400 rifle,yes
+93,"sig sauer mcx rifle, glock 17 9mm; high-capacity magazines (30 rounds)",yes
+94,"sks 1954r, .30-caliber winchester rifles; 12-gauge remington pump-action shotgun; .38-caliber revolver",yes
+95,sks 7.62-caliber rifle; glock 9mm,yes
+96,"smith & wesson handgun, with a green sighting laser",no
+97,smith & wesson model 500 (.50-caliber revolver),yes
+98,springfield semiautomatic handgun; .30-06 ruger bolt-action rifle; 12-gauge browning pump-action shotgun,yes
+99,"sturm, ruger mini-14 semiautomatic rifle; 20-gauge winchester pump-action shotgun; .357 ruger blackhawk revolver",yes
+100,two .40-caliber glock semiautomatic handguns; .223-caliber smith & wesson m&p15 semiautomatic rifle; 12-gauge remington 870 pump-action shotgun,yes
+101,two .45-caliber semiautomatic handguns,yes
+102,two 9mm ruger sr9 semiautomatic handguns,yes
+103,two illegally modified rifles,no
+104,"two intratec dc-9, .45-caliber colt semiautomatic handguns",no
+105,"two intratec mac-11, 9mm sig sauer semiautomatic handguns; ak-47 chinese variant semiautomatic rifle; .38-caliber revolver",yes
+106,"two semiautomatic ar-15-style rifles—one a dpms a-15, the other a smith & wesson m&p15, both with .223 calibre ammunition. two 9mm semiautomatic handguns. high capacity magazines.",no
+107,"two sig sauer p226 semiautomatic pistols and glock 34 pistol, and hundreds of rounds of ammo. a 6- inchand 8-inch “srk” and “boar hunter” hunting knives. ",yes
+108,unknown,no
+109,unknown,yes
+110,walther 9mm semi-automatic pistol[,yes
+111,wasr-10 century arms semiautomatic rifle,no
+112,winchester 1300 pump-action shotgun; .357 magnum revolver,yes
+113,"zastava serbia ak-47-style rifle, glock model 22 .40-caliber handgun; high-capacity magazines (30 rounds)",yes
