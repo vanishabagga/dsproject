@@ -2,9 +2,10 @@ create table participant_dimension(
     participant_primary_key int,
     participant_name varchar,
     race varchar,
-    age int,
+    age float,
     age_group varchar,
     gender varchar,
+    health_flag boolean,
     incident_description varchar,
     primary key (participant_primary_key)
 );
@@ -16,7 +17,7 @@ create table date_dimension(
     weekday varchar,
     year int,
     season varchar,
-    holiday_flag varchar,
+    holiday_flag boolean,
     primary key (date_primary_key)
 );
 
@@ -67,11 +68,11 @@ CREATE TABLE incident_fact_table (
 CREATE TABLE game_sales_fact_table (
     game_primary_key INT,
 	video_game_primary_key INT,
-    na_sales INT,
-    eu_sales INT,
-    jp_sales INT,
-    other_sales INT,
-    global_sales INT,
+    na_sales float,
+    eu_sales float,
+    jp_sales float,
+    other_sales float,
+    global_sales float,
     PRIMARY KEY (game_primary_key),
 	FOREIGN KEY (video_game_primary_key) REFERENCES video_game_dimension(video_game_primary_key)
 );
