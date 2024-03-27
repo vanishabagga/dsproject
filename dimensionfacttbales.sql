@@ -67,13 +67,19 @@ CREATE TABLE incident_fact_table (
 CREATE TABLE game_sales_fact_table (
     game_primary_key INT,
 	video_game_primary_key INT,
-	date_primary_key INT, 
     na_sales INT,
     eu_sales INT,
     jp_sales INT,
     other_sales INT,
     global_sales INT,
     PRIMARY KEY (game_primary_key),
-	FOREIGN KEY (video_game_primary_key) REFERENCES video_game_dimension(video_game_primary_key),
-    FOREIGN KEY (date_primary_key) REFERENCES date_dimension(date_primary_key)
+	FOREIGN KEY (video_game_primary_key) REFERENCES video_game_dimension(video_game_primary_key)
+);
+
+CREATE TABLE game_date_association (
+    game_sales_key INT,
+    date_primary_key INT,
+    FOREIGN KEY (game_sales_key) REFERENCES game_sales_fact_table(game_primary_key),
+    FOREIGN KEY (date_primary_key) REFERENCES date_dimension(date_primary_key),
+    PRIMARY KEY (game_sales_key, date_primary_key)
 );
