@@ -118,8 +118,6 @@ LEFT JOIN
 GROUP BY 
     pd.race, vd.year;
 
-
-
 /*a. Iceberg Query*/
 
 
@@ -139,17 +137,11 @@ SELECT
        p.age_group,
        COUNT(*) AS total_cases,
        RANK() OVER (
-              PARTITION BY p.age_group 
-              ORDER BY COUNT(*) DESC) AS rank,
-FROM
-       incident_fact_table f
-       JOIN participant p ON f.participant_primary_key = p.participant_primary_key
+              ORDER BY COUNT(*) DESC) AS rank
+FROM incident_fact_table f
+JOIN participant_dimension p ON f.participant_primary_key = p.participant_primary_key
 GROUP BY
-       p.age_group
-
-
-
-
+       p.age_group;
 
 /*Window Clause Query (Number of deaths in the year 2023 compared perivous years)*/
 SELECT
@@ -170,5 +162,8 @@ FROM (
         EXTRACT(year FROM d.date)
 ) AS yearly_casualties
 WINDOW w AS (ORDER BY year ROWS BETWEEN 1 PRECEDING AND 1 PRECEDING);
+
+
+
 
 
