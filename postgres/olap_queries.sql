@@ -34,7 +34,7 @@ FROM incident_fact_table AS F
 INNER JOIN participant_dimension AS P ON F.participant_primary_key = P.participant_primary_key
 GROUP BY gender, race;
 
-/* Dice Query (total sales of video games by genre, platform, publisher, and year with conditions */
+/* Dice Query (total sales of video games by genre, platform, publisher, and year with conditions) */
 
 SELECT V.genre, V.platform, V.publisher, V.year, SUM(G.global_sales) AS total_sales
 FROM game_sales_fact_table AS G
@@ -47,7 +47,7 @@ GROUP BY V.genre, V.platform, V.publisher, V.year;
 /* Combining OLAP Operations - 3 Queries*/
 /* Aggregates incident data by state, year, and month for California, Texas, and Florida,
    counting total incidents and summing up the injuries and deaths. Calculates the average age of participants
-   in these incidents. */
+   in these incidents */
 
 SELECT 
     ld.state,
@@ -72,7 +72,7 @@ GROUP BY
 
 
 /* Annual incident data by state, including total incidents, participants, injuries, and deaths.
-   Correlates incidents with the count of action or shooter video games. */
+   Correlates incidents with the count of action or shooter video games */
 
 SELECT 
     ld.state,
@@ -98,7 +98,7 @@ GROUP BY
 
 
 /* Yearly incident data by race, counting distinct participants and categorizing
-   them by gender and health status. Also sums regional and global video game sales. */
+   them by gender and health status. Also sums regional and global video game sales */
 
 SELECT 
     pd.race,
@@ -136,7 +136,7 @@ GROUP BY D.date_primary_key, D.month, D.day, D.year
 ORDER BY total_deaths DESC
 LIMIT 5;
 
-/*Windowing Query (Total Cases partitioned by age_group, ranked by total and by acquisition group)*/
+/*Windowing Query (Total Cases partitioned by age_group, ranked by total and by acquisition group) */
 
 SELECT
        p.age_group,
@@ -148,7 +148,7 @@ JOIN participant_dimension p ON f.participant_primary_key = p.participant_primar
 GROUP BY
        p.age_group;
 
-/*Window Clause Query (Number of deaths in the year 2023 compared perivous years)*/
+/*Window Clause Query (Number of deaths in the year 2023 compared perivous years) */
 
 SELECT
     year,
