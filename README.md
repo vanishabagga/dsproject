@@ -21,4 +21,4 @@ prep_csv: Consists of intermediary CSV files that are used to create some of the
 
 Jupyter notebooks (.ipynb): Used for data cleaning and preprocessing. Each notebook is named according to the specific cleaning or preprocessing task it performs.
 
-** dimensionfacttables.sql can be run in PostgreSQL in the query tool to create and load the tables for the database. olap_queries.sql can be run after database has been created and CSVs have been imported into corresponding tables.
+** dimensionfacttables.sql can be run in PostgreSQL in the query tool to create and load the tables for the database. queries.sql can be run after database has been created and CSVs have been imported into corresponding tables.
