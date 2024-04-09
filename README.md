@@ -1,4 +1,4 @@
-Phase 2: Physical Design and Data Staging
+# README
 CSI 4142 – Fundamentals of Data Science
 
 Group #34
@@ -19,6 +19,8 @@ postgres: Includes SQL code for both initializing the database setup (dimensionf
 
 prep_csv: Consists of intermediary CSV files that are used to create some of the final CSVs in the csv folder. 
 
-Jupyter notebooks (.ipynb): Used for data cleaning and preprocessing. Each notebook is named according to the specific cleaning or preprocessing task it performs.
+random_forest.ipynb: Used to do the Random Forest machine learning algorithm to predict target variables.
+
+Other Jupyter notebooks (.ipynb): Used for data cleaning and preprocessing. Each notebook is named according to the specific cleaning or preprocessing task it performs.
 
 ** dimensionfacttables.sql can be run in PostgreSQL in the query tool to create and load the tables for the database. queries.sql can be run after database has been created and CSVs have been imported into corresponding tables.
